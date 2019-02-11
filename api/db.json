@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "fN": "firstName",
+      "lN": "lastName",
+      "eA": "emailAddress",
+      "pN": "phoneNumber",
+      "bD": "birthday",
+      "d": "department",
+      "id": 1
+    },
+    {
+      "fN": "w",
+      "lN": "w",
+      "eA": "w",
+      "pN": "w",
+      "bD": "w",
+      "d": "w",
+      "id": 2
+    },
+    {
+      "firstName": "r",
+      "lastName": "r",
+      "emailAddress": "r",
+      "phoneNumber": "r",
+      "birthday": "r",
+      "department": "r",
+      "id": 3
+    }
+  ]
+}
