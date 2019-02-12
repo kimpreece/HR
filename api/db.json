@@ -1,31 +1,148 @@
 {
   "employees": [
     {
-      "fN": "firstName",
-      "lN": "lastName",
-      "eA": "emailAddress",
-      "pN": "phoneNumber",
-      "bD": "birthday",
-      "d": "department",
+      "firstName": "kim",
+      "lastName": "preece",
+      "emailAddress": "preece@mctc.edu",
+      "phoneNumber": "1234",
+      "birthday": "January 17",
+      "department": "IT",
       "id": 1
     },
     {
-      "fN": "w",
-      "lN": "w",
-      "eA": "w",
-      "pN": "w",
-      "bD": "w",
-      "d": "w",
+      "firstName": "kimbo",
+      "lastName": "preece",
+      "emailAddress": "preece@mctc.edu",
+      "phoneNumber": "1234",
+      "birthday": "January 17",
+      "department": "IT helpdesk",
       "id": 2
     },
     {
-      "firstName": "r",
-      "lastName": "r",
-      "emailAddress": "r",
-      "phoneNumber": "r",
-      "birthday": "r",
-      "department": "r",
+      "firstName": "Jungle Cat",
+      "lastName": "preece",
+      "emailAddress": "preece@mctc.edu",
+      "phoneNumber": "1234",
+      "birthday": "January 17",
+      "department": "Tree Climber",
       "id": 3
+    },
+    {
+      "firstName": "josh",
+      "lastName": "joseph",
+      "emailAddress": "joseph@mctc.edu",
+      "phoneNumber": "1",
+      "birthday": "today",
+      "department": "A & G",
+      "id": 4
+    },
+    {
+      "firstName": "jordan",
+      "lastName": "C",
+      "emailAddress": "jordan@gmail.com",
+      "phoneNumber": "3",
+      "birthday": "March",
+      "department": "Master coder",
+      "id": 5
+    },
+    {
+      "firstName": "cat",
+      "lastName": "hat",
+      "emailAddress": "cat@hat",
+      "phoneNumber": "2",
+      "birthday": "march",
+      "department": "dr seuss",
+      "id": 6
+    },
+    {
+      "firstName": "hat",
+      "lastName": "cat",
+      "emailAddress": "hat@cat",
+      "phoneNumber": "3",
+      "birthday": "march",
+      "department": "dr seuss",
+      "id": 7
+    },
+    {
+      "firstName": "print",
+      "lastName": "to",
+      "emailAddress": "the ",
+      "phoneNumber": "DOM",
+      "birthday": "now",
+      "department": ",Please",
+      "id": 8
+    },
+    {
+      "firstName": "one",
+      "lastName": "more",
+      "emailAddress": "time",
+      "phoneNumber": "lets",
+      "birthday": "print",
+      "department": "now",
+      "id": 9
+    },
+    {
+      "firstName": "Kimberly",
+      "lastName": "preece",
+      "emailAddress": "preece@marshall.edu",
+      "phoneNumber": "3046336592",
+      "birthday": "jdkfs;",
+      "department": "fjkdls;ajfkl",
+      "id": 10
+    },
+    {
+      "firstName": "david",
+      "lastName": "bryd",
+      "emailAddress": "bird",
+      "phoneNumber": "55",
+      "birthday": "november",
+      "department": "Webmaster",
+      "id": 11
+    },
+    {
+      "firstName": "aaron",
+      "lastName": "preece",
+      "emailAddress": "preece38",
+      "phoneNumber": "33",
+      "birthday": "sept",
+      "department": "aft",
+      "id": 12
+    },
+    {
+      "firstName": "Kimberly",
+      "lastName": "d",
+      "emailAddress": "preece@marshall.edu",
+      "phoneNumber": "3046336592",
+      "birthday": "f",
+      "department": "s",
+      "id": 13
+    },
+    {
+      "firstName": "s",
+      "lastName": "s",
+      "emailAddress": "s",
+      "phoneNumber": "s",
+      "birthday": "s",
+      "department": "s",
+      "id": 14
+    },
+    {
+      "firstName": "k",
+      "lastName": "p",
+      "emailAddress": "pe",
+      "phoneNumber": "2",
+      "birthday": "ja",
+      "department": "it",
+      "id": 15
+    },
+    {
+      "firstName": "Kimberly",
+      "lastName": "a",
+      "emailAddress": "preece@marshall.edu",
+      "phoneNumber": "3046336592",
+      "birthday": "",
+      "department": "",
+      "id": 16
     }
   ]
 }
